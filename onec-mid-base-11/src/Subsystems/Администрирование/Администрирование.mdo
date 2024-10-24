@@ -69,4 +69,5 @@
   <content>Report.ПраваРолей</content>
   <content>Report.ДлительностьОтложенногоОбновления</content>
   <content>Catalog.ДЗ_Должность</content>
+  <content>Catalog.ДЗ_КонтактныеЛица</content>
 </mdclass:Subsystem>
